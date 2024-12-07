@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT 
 global.appUrl=process.env.APP_URL || ""     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
-global.email ="saimsamsun789@gmail.com"
-global.location="Lahore,Pakistan."
+global.email ="wadeofwar14@gmail.com"
+global.location="Accra,Ghana."
 
 
 global.mongodb= process.env.MONGODB_URI || "mongodb+srv://wade:iamwade1234@cluster0.vx46q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
